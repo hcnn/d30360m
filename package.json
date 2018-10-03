@@ -1,0 +1,9 @@
+{
+  "name": "d30360m",
+  "version": "0.1.0",
+  "repo": "hcnn/d30360m",
+  "description": "Date difference in years according to the 30/360 US EOM daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "30/360 US EOM"],
+  "license": "MIT",
+  "src": ["d30360m.c", "d30360m.h"]
+}
